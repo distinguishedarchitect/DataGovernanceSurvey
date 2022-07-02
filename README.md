@@ -1,2 +1,3 @@
 # DataGovernanceSurvey
 This is data collected from free survey. Participants were selected based on inclusion criteria: They were selected only if they have been employed in the retail industry during the last five years, been involved an big data projects while working in a retail enterprise, and if they have a good understanding of the concepts of governance of big data, able to share on whether or not data governance frameworks are in place within their company, and have a minimum of a year’s experience leveraging big data in the retail enterprise where they are employed. 
+Data contains PID (Person ID), Gender (Male/Female), Age Group, Experience (Work experience), Designation, and set of 8 questions.
